@@ -26,6 +26,7 @@
 @media (min-width:600px){
 body section{
    display: inline-block; 
+   max-width: max-content;
 }
 .left-model{
     width: 350px;
@@ -226,6 +227,7 @@ section .text-box{
 footer{
     margin-top: 7rem;
     text-align: center;
+
 }
 }
 @media(max-width: 600px){
